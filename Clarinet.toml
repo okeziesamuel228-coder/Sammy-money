@@ -1,0 +1,9 @@
+[project]
+name = "sammy-money"
+authors = []
+description = "Sammy Money fungible token"
+telemetry = false
+
+[contracts.sammy-money]
+path = "contracts/sammy-money.clar"
+depends_on = []
